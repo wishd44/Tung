@@ -1,2 +1,2 @@
-# Tung
+# Python
 noob
